@@ -142,4 +142,4 @@ MIT — use it, build on it, just don't be boring with it.
 
 ---
 
-_Built by [Rehan Pathan](https://github.com/yourusername) — because the job market is brutal and your resume feedback should be too._
+_Built by [Rehan Pathan](https://github.com/rehanpathan650) — because the job market is brutal and your resume feedback should be too._
